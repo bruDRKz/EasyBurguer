@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\repositories\\interfaces\\ilancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\repositories\\interfaces\\ilancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250310221834_PopularTabelaCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs",
-              "RelativeToolTip": "EasyBurguer\\Migrations\\20250310221834_PopularTabelaCategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T22:18:34.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "EasyBurguer\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:19:52.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\appsettings.json",
-              "RelativeDocumentMoniker": "EasyBurguer\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\appsettings.json",
-              "RelativeToolTip": "EasyBurguer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T18:19:32.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Categoria.cs",
-              "RelativeToolTip": "EasyBurguer\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:30:13.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Lanche.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Lanche.cs",
               "RelativeDocumentMoniker": "EasyBurguer\\Models\\Lanche.cs",
               "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Lanche.cs",
               "RelativeToolTip": "EasyBurguer\\Models\\Lanche.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:28:06.516Z"
+              "WhenOpened": "2025-03-12T17:11:42.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Views\\Lanche\\List.cshtml",
+              "RelativeDocumentMoniker": "EasyBurguer\\Views\\Lanche\\List.cshtml",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Views\\Lanche\\List.cshtml",
+              "RelativeToolTip": "EasyBurguer\\Views\\Lanche\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T16:25:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Program.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Program.cs",
+              "RelativeToolTip": "EasyBurguer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:21:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LancheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Repositories\\LancheRepository.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Repositories\\LancheRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Repositories\\LancheRepository.cs",
+              "RelativeToolTip": "EasyBurguer\\Repositories\\LancheRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:11:29.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILancheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Repositories\\Interfaces\\ILancheRepository.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Repositories\\Interfaces\\ILancheRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Repositories\\Interfaces\\ILancheRepository.cs",
+              "RelativeToolTip": "EasyBurguer\\Repositories\\Interfaces\\ILancheRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:07:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LancheController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\LancheController.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Controllers\\LancheController.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\LancheController.cs",
+              "RelativeToolTip": "EasyBurguer\\Controllers\\LancheController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:49:14.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EasyBurguer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:47:28.878Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HxRzXpElTOF6QlIn2GnV+LRDk/Q2NPqe3Qzy2X1BNU0=",
+  "Hash": "u9WCBuwOGx+tEbSuLpeS5LLSc80LGGJN/hfv7QvE5j0=",
   "Source": "EasyBurguer",
   "BasePath": "_content/EasyBurguer",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "2w1djixfg5",
+      "Integrity": "LmqlWChm+CqPlW5PWso45N+t2hzXm6Jkejo20HkIGjo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1384,7 +1384,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.2w1djixfg5.css",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1394,7 +1394,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "836"
         },
         {
           "Name": "Content-Type",
@@ -1402,11 +1402,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"LmqlWChm+CqPlW5PWso45N+t2hzXm6Jkejo20HkIGjo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 11:49:41 GMT"
+          "Value": "Tue, 11 Mar 2025 03:27:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,7 +1416,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "2w1djixfg5"
         },
         {
           "Name": "label",
@@ -1424,7 +1424,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-LmqlWChm+CqPlW5PWso45N+t2hzXm6Jkejo20HkIGjo="
         }
       ]
     },
@@ -1439,7 +1439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "836"
         },
         {
           "Name": "Content-Type",
@@ -1447,11 +1447,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"LmqlWChm+CqPlW5PWso45N+t2hzXm6Jkejo20HkIGjo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 11:49:41 GMT"
+          "Value": "Tue, 11 Mar 2025 03:27:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1461,7 +1461,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-LmqlWChm+CqPlW5PWso45N+t2hzXm6Jkejo20HkIGjo="
         }
       ]
     },

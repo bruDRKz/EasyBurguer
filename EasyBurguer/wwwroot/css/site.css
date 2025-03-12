@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+#carouselLanches {
+    max-width: 600px; /* Define a largura máxima do carrossel */
+    height: 350px; /* Ajuste conforme necessário */
+    margin: auto; /* Centraliza o carrossel */
+}
+#carouselLanches .carousel-inner img {
+    width: 80%;
+    height: 350px; /* Ajuste conforme necessário */
+    object-fit: contain; /* Mantém toda a imagem visível sem cortes */
+    background-color: transparent; /* Evita fundo branco caso a imagem não preencha o espaço */
+}
