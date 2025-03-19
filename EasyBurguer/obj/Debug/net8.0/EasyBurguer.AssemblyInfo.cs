@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0af73f16f796a83585ab631f51947568a6bb3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26e339f3a9875568419edc9c167ab808c1765f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

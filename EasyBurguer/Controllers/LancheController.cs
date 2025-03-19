@@ -1,5 +1,6 @@
 ﻿using EasyBurguer.Repositories;
 using EasyBurguer.Repositories.Interfaces;
+using EasyBurguer.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EasyBurguer.Controllers
@@ -15,8 +16,14 @@ namespace EasyBurguer.Controllers
 
         public IActionResult List()
         {
-            var lanches = _LancheRepository.Lanches;
-            return View(lanches);
+            //var lanches = _LancheRepository.Lanches;
+            //return View(lanches);
+
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _LancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lanchesListViewModel);
         }
     }
 }
