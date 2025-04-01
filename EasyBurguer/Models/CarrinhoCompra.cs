@@ -1,4 +1,5 @@
 ﻿using EasyBurguer.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace EasyBurguer.Models
 {
@@ -17,7 +18,7 @@ namespace EasyBurguer.Models
         public static CarrinhoCompra GetCarrinho(IServiceProvider services)
         {
             //Defino uma sessão
-            ISession session = services.GetRequiredService<IHttpContextAccessor>()?.HttpContext.Session;  //Uso um operador de navegação segura (?.) para verificar se é null e evitar erros de null exception
+            ISession session = services.GetRequiredService<IHttpContextAccessor>()?.HttpContext.Session;  //Uso um operador de navegação segura (?.) para verificar se é null e evitar erros de null exception, caso ele não seja nulo, ele retorna o HttpContext.Session
 
             //Obtem um serviço do tipo do contexto de banco
             var context = services.GetService<AppDbContext>(); 
@@ -42,7 +43,7 @@ namespace EasyBurguer.Models
                 s => s.Lanche.LancheID == lanche.LancheID &&
                 s.CarrinhoCompraID == CarrinhoCompraId); //Verifico nessa consulta LINQ se o carrinho ja possui o item que eu quero incluir, ao inves de uma query SQL eu procuro os itens com LINQ
 
-            if (carrinhoCompraItem == null) //Se ele não existi na minha tabela de Carrinho de compras eu incluo um objeto e gravo o registro dos campos em uma linha na tabela
+            if (carrinhoCompraItem == null) //Se ele não existir na minha tabela de Carrinho de compras eu incluo um objeto e gravo o registro dos campos em uma linha na tabela
             {
                 carrinhoCompraItem = new CarrinhoCompraItem
                 {
@@ -59,6 +60,59 @@ namespace EasyBurguer.Models
             }
 
             _context.SaveChanges(); //Commita as alteração do banco de dados
+        }
+
+        public int RemoverDoCarrinho(Lanche lanche)
+        {
+            var carrinhoCompraItem = _context.CarrinhoCompraItems.SingleOrDefault(
+                s => s.Lanche.LancheID == lanche.LancheID && 
+                s.CarrinhoCompraID == CarrinhoCompraId);
+
+            var quantidadeLocal = 0;
+
+            if (carrinhoCompraItem != null)
+            {
+                if (carrinhoCompraItem.Quantidade > 1)
+                {
+                    carrinhoCompraItem.Quantidade--;
+                    quantidadeLocal = carrinhoCompraItem.Quantidade;
+                }
+                else
+                {
+                    _context.CarrinhoCompraItems.Remove(carrinhoCompraItem);
+                }
+            }
+            _context.SaveChanges();
+            return quantidadeLocal;
+        }
+
+        public List<CarrinhoCompraItem> GetCarrinhoCompraItems()
+        {
+            return CarrinhoCompraItems ??
+                (CarrinhoCompraItems =
+                    _context.CarrinhoCompraItems
+                    .Where(c => c.CarrinhoCompraID == CarrinhoCompraId)
+                    .Include(s => s.Lanche)
+                    .ToList());
+        }
+
+        public void LimparCarrinho()
+        {
+            var carrinhoItens = _context.CarrinhoCompraItems
+                                    .Where(carrinho =>
+                                    carrinho.CarrinhoCompraID == CarrinhoCompraId);
+
+            _context.CarrinhoCompraItems.RemoveRange(carrinhoItens);
+            _context.SaveChanges();
+        }
+
+        public decimal GetCarrinhoCompraTotal()
+        {
+            var total = _context.CarrinhoCompraItems
+                        .Where(c => c.CarrinhoCompraID == CarrinhoCompraId)
+                        .Select(c => c.Lanche.Preco * c.Quantidade).Sum();
+
+            return total;   
         }
     }
 }

@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "EasyBurguer\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:47:56.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Models\\CarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompra.cs",
+              "RelativeToolTip": "EasyBurguer\\Models\\CarrinhoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:34:28.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
