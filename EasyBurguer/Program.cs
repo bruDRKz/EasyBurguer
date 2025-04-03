@@ -1,4 +1,5 @@
 using EasyBurguer.Context;
+using EasyBurguer.Models;
 using EasyBurguer.Repositories;
 using EasyBurguer.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ builder.Services.AddTransient<ICategoriaRepository, CategoriaRepository>(); //Re
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>(); //Registro do serviço para receber infos da requisição atual
+builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp)); //Registrando o serviço da classe de carrinho e ja criando um carrinho na session, assim posso utilizar ele no Controller de carrinho
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
