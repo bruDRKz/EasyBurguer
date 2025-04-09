@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|c:\\users\\bruno rodrigues\\source\\repos\\easyburguer\\easyburguer\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6231DA3-A53D-4001-852F-026984020CDB}|EasyBurguer\\EasyBurguer.csproj|solutionrelative:easyburguer\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarrinhoCompraViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "RelativeToolTip": "EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:58:58.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Program.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\Program.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Program.cs",
-              "RelativeToolTip": "EasyBurguer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:55:12.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CarrinhoCompraController.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeDocumentMoniker": "EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
-              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeToolTip": "EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Title": "Lanche.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Lanche.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Models\\Lanche.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\Lanche.cs",
+              "RelativeToolTip": "EasyBurguer\\Models\\Lanche.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:53:06.263Z",
+              "WhenOpened": "2025-04-09T01:47:59.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CarrinhoCompra.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompra.cs",
               "RelativeDocumentMoniker": "EasyBurguer\\Models\\CarrinhoCompra.cs",
               "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompra.cs",
               "RelativeToolTip": "EasyBurguer\\Models\\CarrinhoCompra.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:34:28.928Z",
+              "WhenOpened": "2025-04-09T01:39:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Models\\CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Models\\CarrinhoCompraItem.cs",
+              "RelativeToolTip": "EasyBurguer\\Models\\CarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:24:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrinhoCompraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
+              "RelativeToolTip": "EasyBurguer\\ViewModels\\CarrinhoCompraViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:24:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyBurguer\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeToolTip": "EasyBurguer\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:21:48.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarrinhoCompraController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeDocumentMoniker": "EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeToolTip": "EasyBurguer\\Controllers\\CarrinhoCompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:25:40.886Z",
               "EditorCaption": ""
             }
           ]
