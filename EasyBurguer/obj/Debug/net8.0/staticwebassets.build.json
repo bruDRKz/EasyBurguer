@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u9WCBuwOGx+tEbSuLpeS5LLSc80LGGJN/hfv7QvE5j0=",
+  "Hash": "52vcVSBfepS/6bUJZ1szqMAQ4ZWr6PHsDQA90V7Iqpo=",
   "Source": "EasyBurguer",
   "BasePath": "_content/EasyBurguer",
   "Mode": "Default",
@@ -162,6 +162,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
+      "SourceId": "EasyBurguer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\",
+      "BasePath": "_content/EasyBurguer",
+      "RelativePath": "images/delete#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z5jlj0xete",
+      "Integrity": "uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\delete.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
+      "SourceId": "EasyBurguer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\",
+      "BasePath": "_content/EasyBurguer",
+      "RelativePath": "images/Full-Cart-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cb7f8ibgkf",
+      "Integrity": "yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
+      "SourceId": "EasyBurguer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\",
+      "BasePath": "_content/EasyBurguer",
+      "RelativePath": "images/remove#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5c5r3l84e",
+      "Integrity": "LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\remove.ico"
     },
     {
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\js\\site.js",
@@ -1954,6 +2017,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E="
+        }
+      ]
+    },
+    {
+      "Route": "images/delete.png",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs="
+        }
+      ]
+    },
+    {
+      "Route": "images/delete.z5jlj0xete.png",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z5jlj0xete"
+        },
+        {
+          "Name": "label",
+          "Value": "images/delete.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Full-Cart-icon.cb7f8ibgkf.png",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb7f8ibgkf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Full-Cart-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Full-Cart-icon.png",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM="
+        }
+      ]
+    },
+    {
+      "Route": "images/remove.ico",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370070"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
+        }
+      ]
+    },
+    {
+      "Route": "images/remove.w5c5r3l84e.ico",
+      "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370070"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:28:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5c5r3l84e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/remove.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
         }
       ]
     },
