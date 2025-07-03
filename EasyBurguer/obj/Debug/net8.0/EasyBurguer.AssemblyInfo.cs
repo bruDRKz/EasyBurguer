@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95efa71082eb33d8ec3723ba11af7eb6d9777d18")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ea30e56f103856f3311ba98cf4fa663d5c097e")]
+>>>>>>> FirstStep
 [assembly: System.Reflection.AssemblyProductAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyBurguer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

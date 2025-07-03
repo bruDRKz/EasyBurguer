@@ -249,6 +249,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/Envelope-icon24.6bkl1pfaem.png",
       "AssetFile": "images/Envelope-icon24.png",
       "Selectors": [],
@@ -331,6 +332,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/Full-Cart-icon.cb7f8ibgkf.png",
       "AssetFile": "images/Full-Cart-icon.png",
       "Selectors": [],
@@ -413,6 +416,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/Home-iconred.336hvtohoi.png",
       "AssetFile": "images/Home-iconred.png",
       "Selectors": [],
@@ -495,6 +499,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/carousel11.jpg",
       "AssetFile": "images/carousel11.jpg",
       "Selectors": [],
@@ -741,6 +747,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/cart-5-16.ico",
       "AssetFile": "images/cart-5-16.ico",
       "Selectors": [],
@@ -823,6 +830,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/delete.png",
       "AssetFile": "images/delete.png",
       "Selectors": [],
@@ -905,6 +914,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/faleconosco1.jpg",
       "AssetFile": "images/faleconosco1.jpg",
       "Selectors": [],
@@ -1069,6 +1079,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/remove.ico",
       "AssetFile": "images/remove.ico",
       "Selectors": [],

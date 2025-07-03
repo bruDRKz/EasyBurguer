@@ -13,18 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Envelope-icon24.png",
       "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
     },
     {
+=======
+>>>>>>> FirstStep
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
       "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Home-iconred.png",
       "PackagePath": "staticwebassets\\images\\Home-iconred.png"
     },
     {
+=======
+>>>>>>> FirstStep
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\carousel11.jpg",
       "PackagePath": "staticwebassets\\images\\carousel11.jpg"
     },
@@ -37,14 +43,18 @@
       "PackagePath": "staticwebassets\\images\\carousel13.jpg"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\cart-5-16.ico",
       "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
     },
     {
+=======
+>>>>>>> FirstStep
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
       "PackagePath": "staticwebassets\\images\\delete.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
@@ -53,6 +63,8 @@
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
+=======
+>>>>>>> FirstStep
       "Id": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
     },

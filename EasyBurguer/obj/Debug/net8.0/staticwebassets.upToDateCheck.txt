@@ -3,6 +3,7 @@ wwwroot\favicon.ico
 wwwroot\images\carousel11.jpg
 wwwroot\images\carousel12.jpg
 wwwroot\images\carousel13.jpg
+<<<<<<< HEAD
 wwwroot\images\cart-5-16.ico
 wwwroot\images\delete.png
 wwwroot\images\Envelope-icon24.png
@@ -10,6 +11,10 @@ wwwroot\images\faleconosco1.jpg
 wwwroot\images\Full-Cart-icon.png
 wwwroot\images\Home-iconred.png
 wwwroot\images\phone-app-icon.png
+=======
+wwwroot\images\delete.png
+wwwroot\images\Full-Cart-icon.png
+>>>>>>> FirstStep
 wwwroot\images\remove.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

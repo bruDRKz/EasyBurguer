@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "JMmJIfz4Kk5/oSuvNgrWBa3mvQnI8r8mn5QsJalHYBM=",
+=======
+  "Hash": "52vcVSBfepS/6bUJZ1szqMAQ4ZWr6PHsDQA90V7Iqpo=",
+>>>>>>> FirstStep
   "Source": "EasyBurguer",
   "BasePath": "_content/EasyBurguer",
   "Mode": "Default",
@@ -164,6 +168,7 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel13.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\cart-5-16.ico",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -185,6 +190,8 @@
       "OriginalItemSpec": "wwwroot\\images\\cart-5-16.ico"
     },
     {
+=======
+>>>>>>> FirstStep
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -206,6 +213,7 @@
       "OriginalItemSpec": "wwwroot\\images\\delete.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Envelope-icon24.png",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -248,6 +256,8 @@
       "OriginalItemSpec": "wwwroot\\images\\faleconosco1.jpg"
     },
     {
+=======
+>>>>>>> FirstStep
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -269,6 +279,7 @@
       "OriginalItemSpec": "wwwroot\\images\\Full-Cart-icon.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Home-iconred.png",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -311,6 +322,8 @@
       "OriginalItemSpec": "wwwroot\\images\\phone-app-icon.png"
     },
     {
+=======
+>>>>>>> FirstStep
       "Identity": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
       "SourceId": "EasyBurguer",
       "SourceType": "Discovered",
@@ -2126,6 +2139,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/cart-5-16.ico",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\cart-5-16.ico",
       "Selectors": [],
@@ -2208,6 +2222,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/delete.png",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\delete.png",
       "Selectors": [],
@@ -2290,6 +2306,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/Envelope-icon24.6bkl1pfaem.png",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Envelope-icon24.png",
       "Selectors": [],
@@ -2454,6 +2471,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/Full-Cart-icon.cb7f8ibgkf.png",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Full-Cart-icon.png",
       "Selectors": [],
@@ -2536,6 +2555,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/Home-iconred.336hvtohoi.png",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\Home-iconred.png",
       "Selectors": [],
@@ -2700,6 +2720,8 @@
       ]
     },
     {
+=======
+>>>>>>> FirstStep
       "Route": "images/remove.ico",
       "AssetFile": "C:\\Users\\Bruno Rodrigues\\source\\repos\\EasyBurguer\\EasyBurguer\\wwwroot\\images\\remove.ico",
       "Selectors": [],

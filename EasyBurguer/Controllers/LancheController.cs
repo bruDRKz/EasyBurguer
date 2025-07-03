@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿using AspNetCoreGeneratedDocument;
 using EasyBurguer.Models;
 using EasyBurguer.Repositories;
+=======
+﻿using EasyBurguer.Repositories;
+>>>>>>> FirstStep
 using EasyBurguer.Repositories.Interfaces;
 using EasyBurguer.ViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -16,6 +20,7 @@ namespace EasyBurguer.Controllers
             _LancheRepository = lancheRepository;
         }
 
+<<<<<<< HEAD
         public IActionResult List(string categoria)
         {
             IEnumerable<Lanche> lanches;
@@ -48,6 +53,18 @@ namespace EasyBurguer.Controllers
                 CategoriaAtual = categoriaAtual,
             };
                 return View(lanchesListViewModel);
+=======
+        public IActionResult List()
+        {
+            //var lanches = _LancheRepository.Lanches;
+            //return View(lanches);
+
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _LancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lanchesListViewModel);
+>>>>>>> FirstStep
         }
     }
 }
